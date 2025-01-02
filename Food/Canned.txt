@@ -1,0 +1,24 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-11-24T23:15:10+07:00
+
+#### Thịt bò
+- [ ] Thịt bò xay - Metro : dai, mặn, ko hợp. 
+- [ ] Bò hầm - Metro : dai, quá nhiều mỡ
+#### Thịt heo
+- [x] ? Thịt heo nấu đậu - Vissan : mỡ
+#### Pate
+- [x] Gan
+- [ ] Heo
+#### Cá
+- [x] Cá trích sốt cà
+- [x] Cá ngừ toscana (halong can food )
+- [ ] Cá ngừ ngâm dầu | cá ngừ Mexico | Surimi (Thanh cua) 
+- [x] Cá ngừ sốt ớt (seacrown) : 140g (cá ngừ 70g)
+### Canned/Processed food:
+
+  | Xúc xích
++ Bánh khoai môn lệ phố | Chả mực tẩm cốm | Ghẹ Farci Big Meal
++ Trứng vịt muối lòng đỏ
++ Mứt cacao (cacao spread)
++ Tôm khô |  Gà khô

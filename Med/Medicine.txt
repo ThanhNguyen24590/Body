@@ -1,0 +1,74 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-11-24T23:19:35+07:00
+
+https://en.wikipedia.org/wiki/WHO_Model_List_of_Essential_Medicines
+### General:
++ Tránh dùng thuốc gây lờn, nhưng cần dùng phải dùng: antibiotic, decongestant, SSRI.
++ Ngừa bệnh hơn chữa bệnh: trời lạnh/mưa bận áo ấm, trời nóng uống nhiều nước.
++ Sử dụng ít thực phẩm chức năng.
+### Đông Y
++ Sâm đất
++ Giloba (lá bạch quả)
++ Có thể trồng : Cây xạ đen ; Cây Ngải Cứu ;  Cây cỏ mực ;  Cây cà gai leo	; Cây Bông Bèo Tai Tượng ; Lá dâu tằm ; Cây lược vàng;
++ Có thể trồng : Rau Tía tô ; Rau Càng Cua ; Rau Kinh Giới ;  rau Mùi tía ; rau húng quế
++ Artiso
++ Bông cúc
+### Balm
++ Yellow Balm: Cao vàng Con Ó.
++ Mỡ trăn : giảm mụn ???
+### Men vi sinh 
++ Lactobacillus acidophilus: Lacteol fort, pms-Probio, Antibio Pro : Rối loạn hấp thu lactose
++ Thuốc dùng cho tiêu chảy: Bacilus subtilis : Subtyl, Biosubtyl-II
++ Saccharomyces boulardii : Normagut
+### Reseach
+Anti-Aging ? : Metformin
+*Bổ nảo ?*
++ Cebraton/ Hoạt Huyết Dưỡng Não Traphaco
++ Thuốc an thần gây ngủ: Rotundine :Cây bình vôi :Tetrahydropalmatine
++ Đan sâm : Hoạt huyết dưỡng não Sanfordpharma
++ Vietlife Bình An Nano
++ Bổ Não Á Âu : Cao Sâm Đất, Dimethylglycine, Cao Đinh Lăng, Cao Hạt Mào Gà Trắng, cao bạch quả
++ Dầu cá Omega 3
++ Vương Não Khang - Dành Cho Trẻ Tự Kỷ
++ PRIN CETON EXTRA: bạch quả + Cao việt quất, Xuyên khung: 100mg Cát căn: 100mg Hải đới căn: 75mg Cúc ngải vàng (Tanacetum parthenium): 70mg Đại giả thạch: 45mg Tinh dầu thông đỏ: 20mg
++ Bán Đầu Thống: bạch quả, Cao Ích mẫu,Cao mạch môn,Cao xuyên khung,Cao bạch đồng nữ,Cao cây nóng
+
+*Bổ mắt*
++ Doppel Herz Aktiv Eye Vital Capsules
++ Viên Uống Bổ Mắt Wit ( St.Paul Brands)
++ Minh Nhãn Khang - Thoái Hóa Điểm Vàng & Đục Thủy Tinh Thể : Zeaxanthin + Cao Hoàng Đằng
++ Viên Uống Bổ Mắt VIS - Chiết Xuất Cây Việt Quất (VIS - Russia)
+*Thuốc thần kinh:*
++ prucalopride
++ Adderall cho ADHD ?
++ Risperdal for autism ?
+
+### Hệ hô hấp
+*Mũi nghẹt một bên:*
++ Nằm nghiêng 1 bên | Push up 1 tay, nghiêng một bên. Mũi bên nào nghẹt thì để bên đó ở trên. Khi cả 2 vừa đúng thì ngồi dậy. Chú ý đừng làm thông bên này để nghẹt bên kia. Nhớ rằng còn có cái nose cavity fluid.
++ Sit up + Chống tường chổng ngược + Incline push up.
++ tussiday: Tần dày lá
++ kim nguyên chỉ khái lộ
++ Bị nặng thì dùng thuốc Naphazolin. Chú ý không dùng nhiều (dùng liên tục trong 3 ngày) vì dùng nhiều sẽ bị Rhinitis medicamentosa.
+*Viêm Amidan hốc mủ*
++ Bị nặng dùng (đi khám BHYT). Tránh dùng thường xuyên bì anibiotic: Amoxicillin (antibiotic) 875mg + Acid clavulanic (antibiotic support) 125mg (Curam 1000mg): 2 viên 	Sáng 1/ Tối 1
+
+### Hệ thần kinh
+Khô mắt: Dùng xen kẽ thuốc nhỏ mắt + eye lubricant vì tránh depend on thuốc.
+Đau mắt, mắt đỏ: Tobramycin
++ Ra ngoài ngắm trời.
++ Uống thuốc bổ mắt: Tobicom, dầu gấc.
+*Depression:*
++ Đồi hoàn cảnh: đi ra open space + sunlight + tree. Tránh những chỗ sẽ gây depress.
++ Vận động nhẹ: music + dance, taichi.
++ Đọc joke (đừng xem dadjoke), xem hình nature, /aww,....
++ Bị nặng dùng Citalopram Sáng 0.5/ Tối 0.5 (viên) : Tránh dùng nhiều vì 1. depend on thuốc và 2.lờn thuốc, liều càng lúc càng lớn, ko dùng sẽ bị withdrawal. Tham khảo OD Morphin, Codein, Paracetamol + Alcohol withdrawal
+
+### Hệ tiêu hóa
+*Khó tiêu:* 
++ Xoa bụng, đi dạo, vận động nhẹ.
++ Thuốc cốm Xitrina (Natri citrat)
+*Tiêu chảy:*
++ Uống nhiều nước + Uống nước gừng/ honey.
++ Uống Berberin

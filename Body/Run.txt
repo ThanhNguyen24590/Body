@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-09-03T10:09:58+07:00
+
+https://en.wikipedia.org/wiki/Gait
+https://en.wikipedia.org/wiki/Gait_(human)
+https://en.wikipedia.org/wiki/Pronation_of_the_foot

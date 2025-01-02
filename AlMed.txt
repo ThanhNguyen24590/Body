@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2024-05-05T22:33:34+07:00
+
+https://en.wikipedia.org/wiki/Ayurveda
+https://en.wikipedia.org/wiki/Traditional_Vietnamese_medicine
+--------------------
+=== TCM ===
+https://en.wikipedia.org/wiki/Traditional_Chinese_medicine
+https://en.wikipedia.org/wiki/The_body_in_traditional_Chinese_medicine
+https://en.wikipedia.org/wiki/Three_Treasures_(traditional_Chinese_medicine)
