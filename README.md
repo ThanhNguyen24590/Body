@@ -1,7 +1,5 @@
 Fast recollection with 3 Anap/item
-#### Pathavii: Form, Posture & Appearance: 
-+ **Skin**: [00.Msg](https://github.com/ThanhNguyen24590/Body/edit/main/00.Msg.md)
-+ **Posture**: [Dex](https://github.com/ThanhNguyen24590/Body/blob/main/1.2.Dex.md), [DexL](https://github.com/ThanhNguyen24590/Body/blob/main/1.1.DexL.md)
+#### Pathavii: Form, Posture & Appearance: **Skin**: [00.Msg](https://github.com/ThanhNguyen24590/Body/edit/main/00.Msg.md), **Posture**: [Dex](https://github.com/ThanhNguyen24590/Body/blob/main/1.2.Dex.md), [DexL](https://github.com/ThanhNguyen24590/Body/blob/main/1.1.DexL.md)
 + **Clothing** & Accessories: Eyeglasses + Phone + Alarm: Check clean, comfy, suitable.
 + **Habitat**: Check qi flow, Light, Air-Window, Temp-Ac/Fan, Nature: Clean or Take a Walk
 
