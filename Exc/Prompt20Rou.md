@@ -24,8 +24,8 @@ Hãy thiết kế một **giáo án tập luyện 20–25 phút** với các m�
 ---
 
 ## Gợi ý động tác
-Mobility- Stretch: https://github.com/ThanhNguyen24590/Body/blob/main/Exc/Dex.md
-Strength: https://github.com/ThanhNguyen24590/Body/blob/main/Exc/Str.md
+Mobility- Stretch: https://github.com/ThanhNguyen24590/Body/blob/main/Exc/LstDex.md
+Strength: https://github.com/ThanhNguyen24590/Body/blob/main/Exc/LstStr.md
 
 ---
 
