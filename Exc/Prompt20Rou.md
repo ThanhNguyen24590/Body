@@ -83,7 +83,6 @@ Strength: https://github.com/ThanhNguyen24590/Body/blob/main/Exc/LstStr.md
 ````
 <details><summary>Buổi Tập T2 – Core & Cardio Bụng (20 phút)</summary>
 
-### timeline theo hơi thở
 **Khởi động (3 phút)** 
 - Slow Punch – 8 nhịp thở...– Nghỉ 5s  
 - ...
