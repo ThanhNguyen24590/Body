@@ -11,7 +11,7 @@ Hãy thiết kế một **giáo án tập luyện 20–25 phút** với các m�
 ## Giới hạn và điều kiện
 - Thời lượng: **20–25 phút** mỗi buổi.  
 - **Không có dụng cụ chuyên dụng** (chỉ bodyweight).  
-- **Không có động tác nhảy** hoặc gây xóc mạnh (tránh ảnh hưởng cột sống).  
+- **Không có động tác nhảy** vì chỗ tập trên gác tránh gây ồn, có thể dùng các động tác bò, trườn, vươn,..
 - Thời gian tập: **Buổi tối, sau khi đi làm về, trước bữa tối.**  
 
 ---
@@ -24,37 +24,8 @@ Hãy thiết kế một **giáo án tập luyện 20–25 phút** với các m�
 ---
 
 ## Gợi ý động tác
-Có thể thêm các động tác khác
-### Khởi động / Khí công – Dưỡng sinh
-- Slow Punch  
-- Horizontal Step-Punch  
-- Hand-edge, claw,
-- Drum (như đánh trống Taiko)  
-- Tiptoe Bounce
-- Vỗ ngực
-
-### Cardio nhẹ / Đốt mỡ (không nhảy)
-- Fast Punch  
-- Elbow to Knee (giữ)  
-- Horizontal Step Squat  
-- Low Straight Kicks  
-- Raise Leg Forward – Skater  
-- High Kick  
-
-### Tăng cơ – Ổn định cột sống
-- Kneel Push up  
-- Sit up  
-- Frog Sit  
-- Roll Backward (giữ gồng bụng)  
-- Glute Bridges  
-- Side Plank  
-- Plank Side Step (giữ Plank)  
-- Lizard Crawl  
-
-### Giãn cơ – Dưỡng sinh cuối buổi
-- Cobra (giữ)  
-- Superman Hold  
-- Cross Leg & Raise Hand  
+Mobility- Stretch: https://github.com/ThanhNguyen24590/Body/blob/main/Exc/Dex.md
+Strength: https://github.com/ThanhNguyen24590/Body/blob/main/Exc/Str.md
 
 ---
 
