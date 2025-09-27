@@ -12,7 +12,6 @@ Hãy thiết kế một **giáo án tập luyện 20–25 phút** với các m�
 - Thời lượng: **20–25 phút** mỗi buổi.  
 - **Không có dụng cụ chuyên dụng** (chỉ bodyweight).  
 - **Không có động tác nhảy** vì chỗ tập trên gác tránh gây ồn, có thể dùng các động tác bò, trườn, vươn,..
-- Thời gian tập: **Buổi tối, sau khi đi làm về, trước bữa tối.**  
 
 ---
 
@@ -23,17 +22,18 @@ Hãy thiết kế một **giáo án tập luyện 20–25 phút** với các m�
 
 ---
 
-## Gợi ý động tác
-Mobility- Stretch: https://github.com/ThanhNguyen24590/Body/blob/main/Exc/LstDex.md
-Strength: https://github.com/ThanhNguyen24590/Body/blob/main/Exc/LstStr.md
+## Data Sources:
+Always fetch source files via open_url() (not search) when referencing Data Sources, and use it as the basis for designing the schedule:
++ Stretch: https://raw.githubusercontent.com/ThanhNguyen24590/Body/main/Exc/lstDex.md
++ Martial Art: https://raw.githubusercontent.com/ThanhNguyen24590/Body/main/Exc/lstMA.md
++ Strength: https://raw.githubusercontent.com/ThanhNguyen24590/Body/main/Exc/lstStr.md
 
 ---
 
 ## Yêu cầu khi thiết kế
 1. **Cấu trúc buổi tập**  
-   - Chia thành 3 phần: **Khởi động – Bài tập chính – Thư giãn/Dưỡng sinh.**  
+   - Chia thành 3 phần: Stretch – Martial Art – Strength 
    - Thứ tự động tác phải có **flow hợp lý** (gom nhóm tư thế: đứng → ngồi → nằm, tránh rời rạc).  
-   - Thời gian mẫu: **3 phút khởi động, 14–16 phút chính, 3–4 phút thư giãn.**
 
 2. **Nguyên tắc  thở & tâm ý (đặt ở đầu mỗi buổi)**  
    - **Hít bằng mũi – thở ra bằng miệng.**  
