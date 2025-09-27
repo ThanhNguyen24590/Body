@@ -69,7 +69,7 @@ Mỗi vòng: 7 động tác, làm 2–3 vòng
 **Bài tập chính (14–16 phút)**  
 1. Glute Bridge Hold – giữ 5 nhịp thở. – Nghỉ 5s  
 2. Side-Lying Leg Lift – 12/mỗi bên. Khí chạy hông ngoài. – Nghỉ 5s  
-3. Seated Good Morning – 10 cái. Khí trải dọc sống lưng. – Nghỉ 5s  
+3. Stick Good Morning – 10 cái. Khí trải dọc sống lưng. – Nghỉ 5s  
 4. Hip Circle (bò 4 chân xoay hông) – 6 vòng/mỗi bên. – Nghỉ 5s  
 5. Bird-Dog Chéo – 12/mỗi bên. – Nghỉ 5s  
 6. Low Straight Kick – 12/mỗi bên. Ngựa tung vó. – Nghỉ 5s  
@@ -143,7 +143,7 @@ Mỗi vòng: 7 động tác, làm 2–3 vòng
 
 **Bài tập chính (14–15 phút)**  
 1. Bird-Dog – 12/mỗi bên. – Nghỉ 5s  
-2. Seated Good Morning – 10 cái. – Nghỉ 5s  
+2. Stick Good Morning – 10 cái. – Nghỉ 5s  
 3. Glute Bridge Hold – giữ 6 nhịp thở. – Nghỉ 5s  
 4. Superman (nằm sấp nâng tay chân) – 8–10 cái. Khí vươn ra sau lưng. – Nghỉ 5s  
 5. Side-Lying Rotation (tay mở xoay ngực) – 6/mỗi bên. – Nghỉ 5s  
