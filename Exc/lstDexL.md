@@ -5,7 +5,7 @@
 
 ## Vai & Ngực
 - X axis: Đấm thẳng trỏ xuống 2 bên (x) → Floor T Slide
-- Thread the Needle (nằm nghiêng)
+- Side-Lying Rotation → Thread the Needle (nằm nghiêng)
 - Reverse Fly (nằm sấp)
 - Tay đưa Ngang → trỏ qua → nằm úp (x)
 - Đưa thẳng tay qua đầu (y) → Snow Angels
