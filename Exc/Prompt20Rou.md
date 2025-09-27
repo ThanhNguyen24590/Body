@@ -32,7 +32,8 @@ Always fetch source files via open_url() (not search) when referencing Data Sour
 
 ## Yêu cầu khi thiết kế
 1. **Cấu trúc buổi tập**  
-   - Chia thành 3 phần: Stretch – Martial Art – Strength 
+   - Chia thành 3 phần: Stretch (1/5 of time) – Martial Art (2/5 of time) – Strength (2/5 of time)
+   - mỗi buổi tập bao trùm toàn thân, nhưng nhấn mạnh vùng khác nhau.
    - Thứ tự động tác phải có **flow hợp lý** (gom nhóm tư thế: đứng → ngồi → nằm, tránh rời rạc).  
 
 2. **Nguyên tắc  thở & tâm ý (đặt ở đầu mỗi buổi)**  
