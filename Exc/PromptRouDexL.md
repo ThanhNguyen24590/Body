@@ -16,13 +16,13 @@ Làm nóng cơ thể, tăng độ linh hoạt của cơ thể.
 - Ngôn ngữ ngắn gọn, dễ hình dung, không sử dụng emoji
 - Trình bày theo Github Markdown Codeblock.
 - Động tác trình bày theo danh sách từ trên xuống dưới, tương ứng với thứ tự tập động tác. Không cần tiêu đề từng nhóm khớp.
-- Mô tả trong 1 dòng để dễ tập: số lần, thời gian giữ, cách hít thở, cơ/khớp cần chú ý, cảm nhận đúng, CARs (Controlled Articular Rotations) nếu có, sai lầm thường gặp
+- Mô tả trong 1 dòng để dễ tập: số lần, thời gian giữ, cách hít thở, cơ/khớp cần chú ý, cảm nhận đúng, CARs (Controlled Articular Rotations) nếu có, tránh sai lầm thường gặp
 ### Ví dụ trình bày:
 ````
 <details><summary>Buổi Tập T2 – Buổi sáng</summary>
 
 ### Cổ
-- Lăn đầu trái – phải (x): 6–8 lần: Hít vào khi đầu ở giữa, thở ra khi xoay: Cảm nhận: giãn cơ cổ hai bên: Đừng xoay quá nhanh, gồng vai.– Nghỉ 5s
+- Quay đầu trái – phải (x): 6–8 lần: Hít vào - quay đầu váo giữa, thở ra - quay ra ngoài: Cảm nhận: giãn cơ cổ hai bên: Không xoay quá nhanh, gồng vai
 - <Động tác khác>
 ...
 
