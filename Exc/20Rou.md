@@ -1,183 +1,174 @@
-# Giáo án 7 Buổi Tập (20–25 phút) – Giảm cân, Dưỡng sinh, Tăng cơ
+<details><summary>Buổi Tập T2 – Core & Cardio Bụng</summary>
 
-Nguyên tắc chung:  
-- **Thở bụng – Hít bằng mũi, thở ra bằng miệng.**  
-- **Khí – Ý – Hình hợp nhất.**  
-- **Nghỉ tối đa 5s** giữa các động tác.  
-- **2 vòng/ buổi (người mới) – 3 vòng/ buổi (khá/advanced).**
+**Stretch (Khởi động – 4 động tác)**  
+- Xoay cổ tay, nhún vai (8 lần). Khí trôi như suối ra đầu ngón.  
+- Cat-Cow (6 nhịp thở). Lưng uốn, khí dâng như rồng bay.  
+- Side stretch – vươn tay qua đầu (6 hơi thở). Khí dâng sườn.  
+- Forward Fold (6 nhịp thở). Khí chảy xuống bụng dưới.  
 
----
+**Martial Art (Động lực – 6 động tác)**  
+- Slow Punch – 10 mỗi bên. Đẩy đá nặng, khí từ Đan điền ra tay.  
+- Fast Punch – 20 phát. Mưa rơi gõ đất, xả uế khí.  
+- Đấm thẳng, móc, bạt ngang – 6 rep mỗi kiểu. Sấm vang động trời.  
+- Đinh tấn + Đấm – 8 rep. Gốc rễ vững, khí dồn từ chân lên vai.  
+- Low Straight Kicks – 10 mỗi bên. Ngựa tung vó, quét trệ khí hạ thân.  
+- High Kick – 8 mỗi bên. Hạc tung cánh, khí bốc lên.  
 
-<details><summary>Buổi Tập T2 – Core & Cardio Bụng (20 phút)</summary>
-
-**Khởi động (3 phút)**  
-- Slow Punch – 8 nhịp thở. Hình dung đẩy núi, khí từ Đan điền ra tay. – Nghỉ 5s  
-- Xoay hông tròn – 6 vòng mỗi chiều. Khí như dòng nước cuộn hông. – Nghỉ 5s  
-- Cat-Cow (bò mèo) – 6 nhịp thở. Khí lưng trải dọc cột sống. – Nghỉ 5s  
-
-**Bài tập chính (14–16 phút)**  
-Mỗi vòng: 7 động tác, làm 2–3 vòng  
-1. Elbow to Knee – 12 cái/mỗi bên. Khỉ co người, bụng dưới căng khí. – Nghỉ 5s  
-2. Plank (cẳng tay) – giữ 6 nhịp thở. Cột sống như thân trúc chắc. – Nghỉ 5s  
-3. Glute Bridge – 12–15 cái. Sông nâng thuyền, khí dâng từ bụng dưới lên ngực. – Nghỉ 5s  
-4. Side Plank (gối chống đất cho dễ / duỗi chân cho khó) – 5 nhịp thở/mỗi bên. Thân như vách đá. – Nghỉ 5s  
-5. Dead Bug – 10–12 cái. Chim non dang cánh, khí trải bụng dưới. – Nghỉ 5s  
-6. Slow Fast Punch (nhịp nhanh) – 15 cái. Mưa rơi gõ đất, xả uế khí. – Nghỉ 5s  
-7. Low Straight Kick – 12/mỗi bên. Ngựa tung vó, quét trệ khí hạ thân. – Nghỉ 5s  
-
-**Thư giãn – Dưỡng sinh (3–4 phút)**  
-- Tư thế nằm ôm gối (Apanasana) – 6 nhịp thở. Thả lỏng thắt lưng.  
-- Vặn mình nằm (Supine Twist) – 5 nhịp thở/mỗi bên. Khí xoắn, giải uế hông lưng.  
-- Ngồi xếp bằng, thở bụng 10 nhịp. Quán tưởng thanh khí vào, trọc khí ra.  
+**Strength (Bụng – 5 động tác)**  
+- Drumming (Taiko) – 20 nhịp. Đánh trống trận, khí lan ngực.  
+- Cross Crunch – 12 mỗi bên. Khỉ co người, linh hoạt. Khí dồn bụng dưới.  
+- Sit up – 15 lần. Khí nâng từ bụng trước.  
+- One leg one arm Plank – 6 nhịp thở mỗi bên. Khí chéo qua thân.  
+- Glute Bridges – 12 lần. Sông nâng thuyền, khí dâng từ bụng dưới.  
 
 </details>
 
 ---
 
-<details><summary>Buổi Tập T3 – Toàn thân – Sức mạnh & Giải phóng lưng (22 phút)</summary>
+<details><summary>Buổi Tập T3 – Lưng & Vai</summary>
 
-**Khởi động (3 phút)**  
-- Shoulder Roll – 6 vòng trước sau. Khí như suối chảy vai. – Nghỉ 5s  
-- Xoay cột sống (Seated Twist nhẹ) – 5 nhịp thở/mỗi bên. – Nghỉ 5s  
-- Squat mở hông nhẹ – 10 cái. Khí hạ xuống chân. – Nghỉ 5s  
+**Stretch**  
+- Nhìn ngang, nhìn sau (4 lần). Khí nhẹ như gió xoay cổ.  
+- Xoay vai, xoay cánh tay (CARs) – 6 lần. Khí tròn quanh vai.  
+- Child Pose giãn vai – 6 hơi thở. Khí lắng xuống lưng.  
 
-**Bài tập chính (14–16 phút)**  
-1. Wall Sit (dựa lưng tường, gối 90°) – 6 nhịp thở. Khí tụ chân. – Nghỉ 5s  
-2. Push Up (tỳ gối cho dễ / full cho khó) – 10–12 cái. Khí bàn tay dồn ngực. – Nghỉ 5s  
-3. Bird-Dog – 12/mỗi bên. Khí vươn dọc sống lưng. – Nghỉ 5s  
-4. Glute Bridge Marching – 10/mỗi chân. Sông nâng thuyền, từng nhịp mái chèo. – Nghỉ 5s  
-5. Table Top Hip Lift – 12 cái. Lưng thẳng như cầu gỗ, khí mở ngực. – Nghỉ 5s  
-6. Slow Punch – 8 nhịp thở. Đẩy vật nặng, khí dâng cánh tay. – Nghỉ 5s  
-7. Bear Crawl tiến lùi 3 bước (không gây ồn, bước chậm chắc) – 4 lần. Khí trườn như hổ. – Nghỉ 5s  
+**Martial Art**  
+- Horizontal Step-Punch – 8 mỗi bên. Như trâu húc, khí dồn vai.  
+- Hand-edge, claw – 8 mỗi bên. Hổ cào, khí sắc bén.  
+- Chưởng thẳng, chặt, trảo xuống – 6 mỗi kiểu. Khí đổ từ ngực ra tay.  
+- Cầm gối đánh – 10 lần. Khí dồn từ hông ra tay.  
+- Deep Squat + Chưởng – 8 rep. Rễ chắc, khí bùng lên.  
 
-**Thư giãn – Dưỡng sinh (3–4 phút)**  
-- Tư thế Em bé (Child pose) – 6 nhịp thở. Khí tụ về Đan điền.  
-- Gập trước ngồi (Seated Forward Fold) – 6 nhịp thở. Thả khí trọc hạ thân.  
-- Thở bụng sâu, 10 nhịp.  
-
-</details>
-
----
-
-<details><summary>Buổi Tập T4 – Hông & Thắt lưng (21 phút)</summary>
-
-**Khởi động (3 phút)**  
-- Xoay hông – 6 vòng. Khí như gió xoáy quanh eo. – Nghỉ 5s  
-- Cat-Cow – 6 nhịp thở. – Nghỉ 5s  
-- Knee Hug đứng – 6/mỗi bên. Khí dồn về bụng dưới. – Nghỉ 5s  
-
-**Bài tập chính (14–16 phút)**  
-1. Glute Bridge Hold – giữ 5 nhịp thở. – Nghỉ 5s  
-2. Side-Lying Leg Lift – 12/mỗi bên. Khí chạy hông ngoài. – Nghỉ 5s  
-3. Stick Good Morning – 10 cái. Khí trải dọc sống lưng. – Nghỉ 5s  
-4. Hip Circle (bò 4 chân xoay hông) – 6 vòng/mỗi bên. – Nghỉ 5s  
-5. Bird-Dog Chéo – 12/mỗi bên. – Nghỉ 5s  
-6. Low Straight Kick – 12/mỗi bên. Ngựa tung vó. – Nghỉ 5s  
-7. Plank với nâng chân chậm – 6/mỗi bên. Thân vững như cột đồng. – Nghỉ 5s  
-
-**Thư giãn – Dưỡng sinh (3–4 phút)**  
-- Supine Twist – 5 nhịp/mỗi bên.  
-- Child Pose – 6 nhịp thở.  
-- Ngồi thở 10 nhịp, quán tưởng hông – lưng sáng ấm.  
+**Strength**  
+- Wall Handstand (tựa tường) – 6 nhịp thở. Khí dồn ngược lên vai.  
+- Reverse Push up – 10 lần. Khí dồn vai sau.  
+- Back Push up – 8 lần. Ngực mở, khí vỗ cánh.  
+- Lizard Crawl – 6 bước mỗi bên. Rồng bò, khí lan toàn thân.  
+- Bear Walk – 8 bước. Gấu đi, khí dồn vai và lưng.  
 
 </details>
 
 ---
 
-<details><summary>Buổi Tập T5 – Ngực – Vai – Cánh tay (22 phút)</summary>
+<details><summary>Buổi Tập T4 – Thân Dưới & Đùi</summary>
 
-**Khởi động (3 phút)**  
-- Shoulder Circle – 6 vòng. – Nghỉ 5s  
-- Arm Swing chéo – 8 lần. – Nghỉ 5s  
-- Vỗ ngực (Bear Beat) – 10 cái. Như gấu gõ trống, khí lan ngực. – Nghỉ 5s  
+**Stretch**  
+- Xoay gối – 6 lần. Khí trôi quanh khớp.  
+- Step-through lunge – 6 nhịp thở mỗi bên. Khí kéo dài cơ đùi.  
+- Pigeon Pose – 6 hơi thở. Khí hạ xuống hông.  
 
-**Bài tập chính (14–16 phút)**  
-1. Push Up – 8–12 cái. Khí bàn tay dồn ngực. – Nghỉ 5s  
-2. Incline Push Up (tỳ bàn/tường) – 10 cái. – Nghỉ 5s  
-3. Shoulder Tap Plank – 10/mỗi bên. Khí chắc vai. – Nghỉ 5s  
-4. Elbow to Side Press (ép khuỷu vào sườn, mở ra) – 12 cái. – Nghỉ 5s  
-5. Slow Punch – 10 nhịp thở. Đẩy núi. – Nghỉ 5s  
-6. Hand-edge Strike (chém cạnh bàn tay) – 10/mỗi bên. Như hổ cào. – Nghỉ 5s  
-7. Bear Crawl 4 bước. Khí trườn vững chắc. – Nghỉ 5s  
+**Martial Art**  
+- Đinh tấn + Đấm – 10 lần. Khí từ chân qua tay.  
+- Low Straight Kicks – 10 mỗi bên. Ngựa tung vó.  
+- Raise Leg Forward – Skater – 12 lần. Như trượt băng, khí quét dưới.  
+- Deep Squat – 10 lần. Khí dồn đùi trước.  
+- High Kick – 8 lần. Khí bốc lên từ đùi.  
 
-**Thư giãn – Dưỡng sinh (3–4 phút)**  
-- Ngồi thẳng, xoay vai – 6 vòng.  
-- Gập vai ra sau, mở ngực – 5 nhịp thở.  
-- Thở bụng 10 nhịp.  
-
-</details>
-
----
-
-<details><summary>Buổi Tập T6 – Chân & Thăng bằng (21 phút)</summary>
-
-**Khởi động (3 phút)**  
-- Xoay cổ chân – 6 vòng. – Nghỉ 5s  
-- Knee Hug – 6/mỗi bên. – Nghỉ 5s  
-- Squat nhẹ – 8 cái. – Nghỉ 5s  
-
-**Bài tập chính (14–16 phút)**  
-1. Wall Sit – 6 nhịp thở. – Nghỉ 5s  
-2. Step Back Lunge (không nhảy) – 10/mỗi bên. – Nghỉ 5s  
-3. Glute Bridge – 12 cái. – Nghỉ 5s  
-4. Side Leg Raise (đứng bám tường giữ thăng bằng) – 12/mỗi bên. – Nghỉ 5s  
-5. Heel Raise (nhón gót) – 15 cái. Khí dồn xuống chân. – Nghỉ 5s  
-6. Low Straight Kick – 12/mỗi bên. Ngựa tung vó. – Nghỉ 5s  
-7. Seated Forward Bend – giữ 6 nhịp thở. – Nghỉ 5s  
-
-**Thư giãn – Dưỡng sinh (3–4 phút)**  
-- Ngồi thẳng, thở bụng sâu – 10 nhịp.  
-- Vươn hai tay lên cao, hạ xuống chậm.  
-- Quán tưởng khí tụ nơi chân, vững như gốc cây.  
+**Strength**  
+- Walk Lunge – 8 bước mỗi chân. Khí dồn xuống đất.  
+- Duck Walk – 6 bước tiến + 6 bước lùi. Khí căng cơ đùi.  
+- Horizontal Step Squat – 10 lần. Khí trải ngang.  
+- Glute Bridges – 12 lần. Sông nâng thuyền.  
+- Situp Step aside – 10 mỗi bên. Khí xoáy hông bụng.  
 
 </details>
 
 ---
 
-<details><summary>Buổi Tập T7 – Lưng – Cột sống – Thư giãn sâu (20 phút)</summary>
+<details><summary>Buổi Tập T5 – Toàn thân & Cardio</summary>
 
-**Khởi động (3 phút)**  
-- Xoay cổ chậm – 5 vòng/mỗi bên. – Nghỉ 5s  
-- Cat-Cow – 6 nhịp thở. – Nghỉ 5s  
-- Shoulder Roll – 6 vòng. – Nghỉ 5s  
+**Stretch**  
+- Spinal Roll – 6 nhịp. Khí uốn mềm sống lưng.  
+- Side Lunge Stretch – 6 hơi thở. Khí dồn hông.  
+- Downward Dog – 6 hơi thở. Khí kéo dài gân cơ.  
 
-**Bài tập chính (14–15 phút)**  
-1. Bird-Dog – 12/mỗi bên. – Nghỉ 5s  
-2. Stick Good Morning – 10 cái. – Nghỉ 5s  
-3. Glute Bridge Hold – giữ 6 nhịp thở. – Nghỉ 5s  
-4. Superman (nằm sấp nâng tay chân) – 8–10 cái. Khí vươn ra sau lưng. – Nghỉ 5s  
-5. Side-Lying Rotation (tay mở xoay ngực) – 6/mỗi bên. – Nghỉ 5s  
-6. Bear Crawl tiến 3 bước – 4 lần. – Nghỉ 5s  
-7. Plank – 5 nhịp thở. – Nghỉ 5s  
+**Martial Art**  
+- Fast Punch – 30 phát. Mưa dồn dập, xả khí.  
+- Đấm (lao, múc, bật ngược) – 6 rep mỗi kiểu. Khí bùng phát.  
+- Chưởng chặt – 10 rep. Khí sắc như kiếm.  
+- Low Straight Kicks – 12 mỗi bên. Ngựa quét đường.  
+- High Kick + Đấm móc kết hợp – 6 lần. Khí xoáy toàn thân.  
 
-**Thư giãn – Dưỡng sinh (3–4 phút)**  
-- Child Pose – 6 nhịp thở.  
-- Supine Twist – 5 nhịp/mỗi bên.  
-- Nằm Savasana ngắn, thở bụng 10 nhịp, quán tưởng khí ấm dọc sống lưng.  
+**Strength**  
+- Army Crawl – 6 bước. Khí sát đất, bụng căng.  
+- Frog Sit – 12 lần. Khí dồn hông bụng.  
+- Cross Leg & Raise Hand – 10 mỗi bên. Khí chéo toàn thân.  
+- Deep Squat – 12 lần. Khí vững chân.  
+- One leg one arm Plank – 6 hơi thở. Khí căng như dây cung.  
 
 </details>
 
 ---
 
-<details><summary>Buổi Tập CN – Phục hồi – Dưỡng sinh nhiều hơn (20 phút)</summary>
+<details><summary>Buổi Tập T6 – Lưng dưới & Core</summary>
 
-**Khởi động (3 phút)**  
-- Vươn tay cao, thở sâu – 5 nhịp. – Nghỉ 5s  
-- Xoay hông chậm – 6 vòng. – Nghỉ 5s  
-- Vỗ nhẹ ngực – bụng – lưng – 1 vòng cơ thể. – Nghỉ 5s  
+**Stretch**  
+- Supine Twist – 6 hơi thở mỗi bên. Khí vặn cột sống.  
+- Bridge Pose – 6 nhịp thở. Khí nâng hông.  
+- Cobra (giữ) – 6 hơi thở. Khí mở ngực.  
 
-**Bài tập chính (14 phút, thiên về khí công – nhẹ)**  
-1. Slow Punch – 8 nhịp thở.  
-2. Arm Swing (vung tay thả lỏng) – 15 cái.  
-3. Glute Bridge – 10 cái.  
-4. Dead Bug – 10 cái.  
-5. Knee Hug nằm – 6 nhịp.  
-6. Seated Twist – 5 nhịp/mỗi bên.  
-7. Low Straight Kick – 8/mỗi bên.  
+**Martial Art**  
+- Slow Punch – 12 lần. Khí dồn chắc từng nhịp.  
+- Đấm bật ngược – 8 rep. Khí từ lưng ra tay.  
+- Chưởng trảo xuống – 8 lần. Khí như nước chảy.  
+- Low Straight Kicks – 10 mỗi bên. Khí quét dưới.  
+- Raise Leg Skater – 12 lần. Khí giữ thăng bằng.  
 
-**Thư giãn – Dưỡng sinh (3–4 phút)**  
-- Tư thế em bé – 6 nhịp.  
-- Ngồi thở bụng sâu 12 nhịp, quán tưởng thân thể sáng trong.  
-- Khép buổi tập: xoa nóng lòng bàn tay, áp lên mắt – tim – bụng.  
+**Strength**  
+- Glute Bridges – 15 lần. Khí nâng từ bụng dưới.  
+- Sit up – 15 lần. Khí nâng bụng trước.  
+- Cross Crunch – 10 mỗi bên. Khí dồn xiên.  
+- Plank Side Step – 6 bước mỗi bên. Khí trôi ngang.  
+- Lizard Crawl – 6 bước. Rồng bò, khí xoắn lưng.  
+
+</details>
+
+---
+
+<details><summary>Buổi Tập T7 – Vai & Ngực</summary>
+
+**Stretch**  
+- Giãn ngực dựa tường – 6 hơi thở. Khí mở tim.  
+- Xoay vai, nhún vai – 8 lần. Khí tròn đều.  
+- Side stretch – 6 hơi thở. Khí kéo dài sườn.  
+
+**Martial Art**  
+- Horizontal Step-Punch – 8 mỗi bên. Trâu húc.  
+- Hand-edge, claw – 10 mỗi bên. Hổ cào.  
+- Chưởng thẳng, chặt – 8 rep. Khí bùng ra trước.  
+- Đấm móc + bạt ngang – 8 mỗi kiểu. Khí sấm động.  
+- Cầm gối đánh – 12 lần. Khí hông dồn tay.  
+
+**Strength**  
+- Kneel Push up – 12 lần. Khí dồn ngực.  
+- Reverse Push up – 10 lần. Khí dồn vai sau.  
+- Back Push up – 10 lần. Khí mở ngực.  
+- Bear Walk – 8 bước. Gấu bước mạnh.  
+- Drumming (Taiko) – 20 nhịp. Trống trận, khí rung ngực.  
+
+</details>
+
+---
+
+<details><summary>Buổi Tập CN – Phục hồi & Dưỡng sinh</summary>
+
+**Stretch**  
+- Quay người 2 bên – 6 lần. Khí trôi nhẹ.  
+- Ngồi giang chân, cúi người – 6 hơi thở. Khí trải đất.  
+- Pigeon Pose – 6 hơi thở. Khí mềm hông.  
+
+**Martial Art**  
+- Slow Punch – 10 lần. Khí chắc, đều.  
+- Fast Punch – 20 lần. Khí giải tỏa.  
+- Chưởng trảo xuống – 8 lần. Khí chảy như nước.  
+- Low Straight Kicks – 10 mỗi bên. Quét trệ khí.  
+- Đinh tấn + Đấm – 8 lần. Gốc rễ sâu.  
+
+**Strength**  
+- Glute Bridges – 12 lần. Khí nâng từ bụng dưới.  
+- Sit up – 12 lần. Khí dồn bụng.  
+- Cross Crunch – 10 mỗi bên. Khí xiên bụng.  
+- Deep Squat – 10 lần. Khí vững chân.  
+- One leg one arm Plank – 6 hơi thở. Khí căng toàn thân.  
 
 </details>
