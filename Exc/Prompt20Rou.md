@@ -13,6 +13,8 @@ Always fetch source files via open_url() (not search) when referencing Data Sour
 + Stretch: https://raw.githubusercontent.com/ThanhNguyen24590/Body/main/Exc/lstDex.md
 + Martial Art: https://raw.githubusercontent.com/ThanhNguyen24590/Body/main/Exc/lstMA.md
 + Strength: https://raw.githubusercontent.com/ThanhNguyen24590/Body/main/Exc/lstStr.md
+If you cannot get the data from link, please ask me to post all files content before generate the response.
+  
 ---
 ### Output structure
 - Chia thành 3 phần: Stretch (1/5 of time) – Martial Art (2/5 of time) – Strength (2/5 of time)
