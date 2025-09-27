@@ -4,6 +4,7 @@
 | Horizontal Step-Punch | Vai | Ngực, Core |
 | Hand-edge, claw | Vai | Cẳng tay |
 | Fast Punch | Vai | Core |
+| Stick good morning | Ngực | Ngực, Core |
 | Kneel Push up | Ngực | Tay sau, Vai |
 | Reverse Push up | Ngực | Tay sau |
 | Back Push up | Ngực | Vai, Tay sau |
