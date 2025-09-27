@@ -1,109 +1,102 @@
-#### Mobility Training Program – 20 phút (buổi sáng khi mới thức dậy)
+<details><summary>Buổi sáng (Session A)</summary>
+  
+### Cổ  
+- Lăn đầu trái‑phải (x): 6 lần mỗi chiều: hít vào khi đầu ở giữa, thở ra khi xoay → cảm giác giãn cổ 2 bên. Sai lầm: xoay quá mạnh gây căng khớp.  
+- Quay cổ (CAR): xoay trọn vẹn, mềm mại, 3 chiều × 2 vòng (trong, ngoài)  
+- Nhẹ nhàng nghiêng đầu (side bend) trái – phải: giữ 2–3 giây mỗi bên × 3 lần  
 
-### 1. Khởi động (Warm-up) – 5–7 phút  
-#### Toàn thân CARs  
-- **Động tác**:  
-  - Nằm ngửa, thả lỏng.  
-  - Xoay chậm rãi từng khớp theo hình tròn: cổ → vai → hông → gối → cổ chân.  
-- **Trọng tâm & an toàn**: Di chuyển trong biên độ thoải mái, không bật mạnh.  
-- **Thời lượng – nhịp thở**: mỗi khớp 3–5 vòng, hít thở chậm đều.  
-- **Lỗi & chỉnh**: Không nhấc cả người, chỉ xoay khớp.  
+### Vai & Ngực  
+- Prone Shoulder CARs (nằm sấp, xoay vai theo trục z): 4–6 lần mỗi bên  
+- Floor T Slide (nằm ngửa, tay vuông góc, trượt ra sau đầu): 8 lần  
+- Thread the Needle nằm nghiêng: 5 lần mỗi bên  
 
-#### Marching tại chỗ (nằm ngửa)  
-- **Động tác**:  
-  - Nằm ngửa, gập từng gối như bước đi.  
-  - Kết hợp vung tay đối bên.  
-- **Trọng tâm & an toàn**: kiểm soát nhịp, không bật hông quá mạnh.  
-- **Thời lượng – nhịp thở**: 1 phút, hít vào khi nâng chân, thở ra khi hạ.  
-- **Lỗi & chỉnh**: Không nhấc đầu lên, tránh siết cổ.  
+### Khuỷu tay  
+- Gập – duỗi khuỷu nằm ngửa: 10 lần mỗi bên  
+- Bent‑arm plank hold (đỡ trên khuỷu tay khi nằm sấp): giữ 15–20 giây  
 
-#### Breathing drill  
-- **Động tác**: đặt 1 tay lên bụng, 1 tay lên ngực.  
-- **Trọng tâm & an toàn**: bụng phình khi hít, xẹp khi thở.  
-- **Thời lượng – nhịp thở**: 10 chu kỳ, mỗi lần hít 4s, giữ 2s, thở ra 6s.  
-- **Lỗi & chỉnh**: Không gồng vai, chỉ dùng cơ hoành.  
+### Cổ tay  
+- Xoay cổ tay (vòng tròn): 6–8 vòng mỗi chiều  
+- Gập – duỗi cổ tay: 10 lần mỗi chiều  
+- Palm press (áp hai lòng bàn tay vào nhau, tạo áp lực): giữ 10 giây  
 
----
+### Ngón tay  
+- Nắm – mở bàn tay: 10 lần  
+- Finger wave (uốn ngón từ ngón út tới ngón trỏ): 2–3 lần  
+- Ấn chéo đầu ngón giữa hai bàn tay: giữ 5 giây  
 
-### 2. Bài tập chính (Main Mobility Training)
+### Cột sống & Hông  
+- Dead Bug: 8–10 lần  
+- Lumbar Twist Supine (xoay lưng dưới khi nằm ngửa): 5 mỗi bên  
+- Bridge March (cầu + đưa chân lên từ từ): 6 lần mỗi chân  
+- Happy Baby Stretch: giữ 15–20 giây  
 
-#### Cổ (Neck)  
-##### Lăn đầu trái phải (x)  
-- **Động tác**: Nằm ngửa, kê gối mỏng, xoay đầu sang trái – phải chậm rãi. *(Beginner)*  
-- **Trọng tâm & an toàn**: xoay trong biên độ thoải mái, không ép.  
-- **Thời lượng – nhịp thở**: 5–8 lần mỗi bên.  
-- **Lỗi & chỉnh**: Không nhấc vai, không xoay gấp.  
+### Gối  
+- Heel Slide (trượt gót trên mặt sàn): 8 lần mỗi bên  
+- Knee CARs (nằm ngửa, vẽ vòng nhỏ bằng đầu gối): 4 vòng mỗi chiều  
 
----
+### Cổ chân  
+- Ankle Alphabet (vẽ chữ cái bằng bàn chân): 1 vòng A → Z mỗi chân  
 
-#### Vai & Ngực (Shoulder & Chest)  
-##### Đấm thẳng trỏ xuống 2 bên (x)  
-- **Động tác**: Nằm ngửa, 2 tay duỗi thẳng, tưởng tượng đấm xuống sàn cạnh hông. *(Beginner)*  
-- **Trọng tâm & an toàn**: cảm nhận vai lún xuống, ngực mở.  
-- **Thời lượng – nhịp thở**: 8–10 lần, thở ra khi ấn xuống.  
-- **Lỗi & chỉnh**: Không co cổ, không gồng nín thở.  
+### Bàn chân  
+- Toe Yoga (tách – khép các ngón): 5 lần  
+- Dorsiflexion với strap (nếu có dây): giữ 10 giây mỗi bên  
+- Big Toe Circles: 4 vòng mỗi chiều  
 
----
+### Toàn thân / Phối hợp  
+- Cat – Cow nằm sấp (uốn lưng lên – xuống): 8 lần  
+- Bò đong đưa (nằm sấp, di chuyển tay – chân nhẹ nhàng): 6–8 lần  
+- Giơ chân tay cùng bên (nằm sấp): 6 lần mỗi bên  
+- Sphinx / Cobra nhẹ (nằm sấp, nâng ngực): giữ 10–15 giây  
+- Cuối: ngồi bắt chéo nhẹ, xoay lưng trái – phải × 4 lần  
 
-#### Khuỷu tay – Cổ tay – Ngón tay  
-##### Xoay cổ tay (vòng tròn)  
-- **Động tác**: Nằm ngửa, co khuỷu, xoay chậm cổ tay 2 chiều. *(Beginner)*  
-- **Trọng tâm & an toàn**: chuyển động chậm, kiểm soát.  
-- **Thời lượng – nhịp thở**: 5 vòng mỗi chiều.  
-- **Lỗi & chỉnh**: Không xoay cả cánh tay, chỉ cổ tay.  
+</details>
 
----
+<details><summary>Buổi chiều (Session B)</summary>
+  
+### Cổ  
+- Chin to shoulder (gật đầu + nghiêng sang vai): giữ 3 giây mỗi bên × 3  
+- Neck Clock (nằm ngửa, đầu làm “vòng đồng hồ”): 2 vòng (12 → 3 → 6 → 9)  
 
-#### Cột sống & Hông (Spine & Hip)  
-##### Ôm gối đong đưa (x)  
-- **Động tác**: Nằm ngửa, ôm 2 gối vào ngực, lắc nhẹ sang trái – phải. *(Beginner)*  
-- **Trọng tâm & an toàn**: thả lỏng lưng dưới.  
-- **Thời lượng – nhịp thở**: 30–45 giây, thở đều.  
-- **Lỗi & chỉnh**: Không siết cứng bụng, chỉ giữ nhẹ.  
+### Vai & Ngực  
+- Snow Angels (nằm ngửa, tay mở – đóng như cánh thiên thần): 8 lần  
+- Reverse Fly (nằm sấp, mở tay ra hai bên): 8 lần  
+- Đưa thẳng tay qua đầu rồi kéo ngang (nằm ngửa): 6 lần mỗi bên  
 
----
+### Khuỷu tay  
+- Gập – duỗi khi tay duỗi ngang sàn: 10 lần mỗi bên  
+- Giữ thăng bằng chống khuỷu (nằm sấp, chống khuỷu 1 bên): giữ 10 giây  
 
-#### Gối (Knee)  
-##### Giơ – hạ gối (y)  
-- **Động tác**: Nằm ngửa, lần lượt nâng từng gối lên 90°, hạ xuống chậm. *(Beginner)*  
-- **Trọng tâm & an toàn**: kiểm soát biên độ, không để gối rơi.  
-- **Thời lượng – nhịp thở**: 6–8 lần mỗi chân.  
-- **Lỗi & chỉnh**: Không cong lưng quá nhiều.  
+### Cổ tay  
+- Xoay cổ tay vòng tròn + gập duỗi xen kẽ: 8 lần mỗi loại  
+- Chống bàn tay xuống sàn (nằm sấp), dồn trọng lượng nhẹ: giữ 10 giây  
 
----
+### Ngón tay  
+- Nắm – mở, finger wave giống buổi sáng  
+- Gõ đầu ngón tay nhẹ xuống đùi/sàn: mỗi ngón 3 lần  
+- Ấn chéo đầu ngón tay (như buổi sáng)  
 
-#### Cổ chân & Bàn chân (Ankle & Foot)  
-##### Đong đưa cổ chân (x)  
-- **Động tác**: Nằm ngửa, giơ 1 chân, xoay cổ chân vẽ vòng tròn. *(Beginner)*  
-- **Trọng tâm & an toàn**: cảm nhận mắt cá, không xoay cả cẳng chân.  
-- **Thời lượng – nhịp thở**: 5–6 vòng mỗi chiều.  
-- **Lỗi & chỉnh**: Không làm nhanh, giữ chuyển động trơn tru.  
+### Cột sống & Hông  
+- 90/90 Hip Switch (nằm sấp hoặc ngửa tùy bạn cảm thấy): 8 lần  
+- Rocking Frog (nằm sấp, đầu gối mở, đung đưa): 6–8 lần  
+- Cong chân + ưỡn người (nằm sấp): giữ 10 giây  
+- Roll (động tác lăn nhẹ phối hợp cơ bụng): 5 lần  
 
----
+### Gối  
+- Heel Slide + Knee CARs như buổi sáng  
+- Giơ – hạ góc gối (nằm ngửa): 10 lần mỗi chân  
 
-#### Toàn thân / Phối hợp (Full body / Compound)  
-##### Cat – Cow (z)  
-- **Động tác**: Ngồi bò 4 điểm.  
-  - Thở ra: cong lưng, cúi đầu (Cat).  
-  - Hít vào: võng lưng, ngẩng đầu (Cow). *(Beginner)*  
-- **Trọng tâm & an toàn**: di chuyển theo nhịp thở, không ép mạnh lưng dưới.  
-- **Thời lượng – nhịp thở**: 6–8 chu kỳ.  
-- **Lỗi & chỉnh**: Không đẩy hông quá cao, không võng quá sâu.  
+### Cổ chân  
+- Ankle Alphabet như buổi sáng  
+- Chống gót – mũi (dorsi / plantar flexion): 10 lần  
 
----
+### Bàn chân  
+- Toe Yoga + Big Toe Circles  
+- Plantar Flexion Hold (duỗi bàn chân cố định): giữ 10 giây  
 
-### 3. Kết thúc (Cool-down) – 2 phút (ngồi)  
-#### Ngồi bắt chéo chân xoay lưng  
-- **Động tác**: Ngồi thoải mái, xoay thân trên sang trái, rồi sang phải.  
-- **Trọng tâm & an toàn**: cột sống thẳng, xoay từ bụng – ngực, không giật.  
-- **Thời lượng – nhịp thở**: 3–4 lần mỗi bên, thở ra khi xoay.  
-- **Lỗi & chỉnh**: Không ép tay quá mạnh, giữ thoải mái.  
+### Toàn thân / Phối hợp  
+- Down Dog “không đặt tay” (cảm nhận kéo dãn người): giữ 10 giây  
+- Plank trên cẳng tay (nếu cảm thấy đủ ổn): giữ 15 giây  
+- Salabhasana / Bow Pose nhẹ (nếu thoải mái): giữ 8–10 giây  
+- Cuối: ngồi bắt chéo, nghiêng người + cúi xuôi trước người giữ 10 giây  
 
----
-
-## Lịch trình gợi ý  
-- Thực hiện **hằng ngày** sau khi thức dậy.  
-- Tập đủ **20 phút** theo trình tự:  
-  - 5–7 phút khởi động.  
-  - 10–12 phút main mobility.  
-  - 2–3 phút cool-down.  
+</details>
