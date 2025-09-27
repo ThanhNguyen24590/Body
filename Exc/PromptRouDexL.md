@@ -20,6 +20,7 @@ Làm nóng cơ thể, tăng độ linh hoạt của cơ thể.
 ### Ví dụ trình bày:
 ````
 <details><summary>Buổi Tập T2 – Buổi sáng</summary>
+
 ### Cổ
 - Lăn đầu trái – phải (x): 6–8 lần: Hít vào khi đầu ở giữa, thở ra khi xoay: Cảm nhận: giãn cơ cổ hai bên: Đừng xoay quá nhanh, gồng vai.– Nghỉ 5s
 - <Động tác khác>
