@@ -37,4 +37,5 @@ Hãy viết **hướng dẫn chi tiết** cho các bài tập giãn khớp & tă
 - Bàn chân
 - Toàn thân/Phối hợp (Full body/Compound movements).  
 
-# Danh sách bài tập: https://raw.githubusercontent.com/ThanhNguyen24590/Body/refs/heads/main/Exc/lstDexL.md
+## Danh sách bài tập: 
+https://raw.githubusercontent.com/ThanhNguyen24590/Body/refs/heads/main/Exc/lstDexL.md
