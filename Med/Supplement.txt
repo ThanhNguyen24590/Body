@@ -1,7 +1,5 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2023-04-15T08:47:34+07:00
-
+#### Men vi sinh
++ Health Aid Bifina R : Lactobacilus, Bifidobacterium
 === Daily ===
 + Thuốc nhỏ mắt: Viroto / Lubricant: Refresh tear.
 + 1 Nghệ viên (trộn mật ong)
@@ -29,4 +27,5 @@ Creation-Date: 2023-04-15T08:47:34+07:00
 + Citalopram (microdose 1/8 -1/10 viên) cho meditation buổi sáng (pha vào cafe-trà). Hạn chế sử dụng vì tránh lờn thuốc.
 + Nghệ: táo bón
 + Atiso: suy thận, gan.
+
 
